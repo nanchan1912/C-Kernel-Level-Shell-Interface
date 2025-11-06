@@ -1,6 +1,6 @@
 # Nan-Shell
 
-> A journey into the heart of command-line interfaces.
+> >///< she sells sea shells 
 
 This is the Nan-Shell, a custom command-line interpreter written entirely in C. This project was made to explore the inner workings of a Unix-like shell.
 
@@ -43,4 +43,5 @@ After a successful build, you can start the shell by running the executable:
 
 
 <p align="center">Made with <3> and a lot of C</p>
+
 # C-Kernel-Level-Shell-Interface
